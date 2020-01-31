@@ -35,7 +35,7 @@
 				<version>${mule.maven.plugin.version}</version>
 				<configuration> 
         <cloudHubDeployment> 
-          <muleVersion>7.3.4</muleVersion> 
+          <muleVersion>4.2.0</muleVersion> 
           <username>roommn</username> 
           <password>Avet258741</password> 
           <environment>Sandbox</environment> 
